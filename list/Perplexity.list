@@ -1,0 +1,4 @@
+# Perplexity 专用规则
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx-res.cloudinary.com
