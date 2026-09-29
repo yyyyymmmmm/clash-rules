@@ -1,0 +1,31 @@
+# 海外证券、外汇、经纪商、金融资讯及跨境支付平台
+# Forex, CFD and international brokers
+DOMAIN-SUFFIX,forex.com
+DOMAIN-SUFFIX,oanda.com
+DOMAIN-SUFFIX,ig.com
+DOMAIN-SUFFIX,saxobank.com
+DOMAIN-SUFFIX,home.saxo
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,fxcm.com
+DOMAIN-SUFFIX,pepperstone.com
+DOMAIN-SUFFIX,xtb.com
+DOMAIN-SUFFIX,swissquote.com
+DOMAIN-SUFFIX,cmcmarkets.com
+DOMAIN-SUFFIX,plus500.com
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,etoro.com
+DOMAIN-SUFFIX,robinhood.com
+DOMAIN-SUFFIX,webull.com
+DOMAIN-SUFFIX,degiro.com
+DOMAIN-SUFFIX,forexfactory.com
+DOMAIN-SUFFIX,forexlive.com
+DOMAIN-SUFFIX,fxstreet.com
+DOMAIN-SUFFIX,dailyfx.com
+# Charting, markets and financial news
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,investing.com
+DOMAIN-SUFFIX,tradingeconomics.com
+DOMAIN-SUFFIX,marketwatch.com
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,morningstar.com

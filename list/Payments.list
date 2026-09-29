@@ -1,0 +1,16 @@
+# 海外支付、汇款及收款服务；建议在“海外支付”组里固定手选稳定出口
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,revolut.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripe.dev
+DOMAIN-SUFFIX,stripe.events
+DOMAIN-SUFFIX,stripe.global
+DOMAIN-SUFFIX,link.com
+DOMAIN-SUFFIX,payoneer.com
+DOMAIN-SUFFIX,remitly.com
+DOMAIN-SUFFIX,westernunion.com
+DOMAIN-SUFFIX,moneygram.com

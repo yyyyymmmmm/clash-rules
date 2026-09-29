@@ -1,0 +1,39 @@
+# 海外数字资产交易所、钱包与链上浏览器；不含博彩站点
+# Exchanges
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.io
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,bingx.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,phemex.com
+DOMAIN-SUFFIX,deribit.com
+DOMAIN-SUFFIX,bitmart.com
+DOMAIN-SUFFIX,coinw.com
+DOMAIN-SUFFIX,lbank.com
+# Wallets and blockchain tools
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,phantom.app
+DOMAIN-SUFFIX,ledger.com
+DOMAIN-SUFFIX,trezor.io
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,basescan.org

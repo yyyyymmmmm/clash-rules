@@ -1,0 +1,3 @@
+# Coinbase：VPN/Tor 或新 IP 可能触发设备重新确认；默认固定手选出口，保留直连选项
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coinbaseusercontent.com
